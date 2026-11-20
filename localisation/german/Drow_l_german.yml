@@ -1,13 +1,4 @@
 ﻿l_german:
-FLAG_CATEGORY_drow:0 "Dark Elf"
-
-####################################
-# Name Lists
-####################################
-
-name_list_DROW1:0 "Dark Elf: Ilythiiri"
-name_list_DROW2:0 "Dark Elf: Dunmer"
-name_list_DROW3:0 "Dark Elf: Drow"
 
 ####################################
 # System Initializers
@@ -41,75 +32,6 @@ drow_decimated_infrastructure_desc:0 "§LWhere once there was plentiful infrastr
 
 drow_trait_xenocidal_terror:0 "Xenocidal Terror"
 drow_trait_xenocidal_terror_desc:0 "A portion of the planet's population has mysteriously vanished! The local §RXenocidal§! population is in agreement that this must be a clerical error. They don't recall the allegedly §Ymissing§! aliens ever living there."
-
-####################################
-# Species Classes
-####################################
-DROW:0 "Dark Elf"
-DROW_desc:1 "Species Class has no effect on your Empire, but Dark-Elf species may consider other Dark-Elf to be less alien than other Species Classes."
-DROW_plural:0 "Dark Elves"
-DROW_insult_01:0 "demon"
-DROW_insult_plural_01:0 "demons"
-DROW_insult_02:0 "charred skinned freak"
-DROW_insult_plural_02:0 "charred skinned freaks"
-DROW_insult_03:0 "burned gremlin"
-DROW_insult_plural_03:0 "burned gremlins"
-DROW_insult_04:0 "scorched bag of mostly water"
-DROW_insult_plural_04:0 "scorched bags of mostly water"
-DROW_compliment_01:0 "angel"
-DROW_compliment_plural_01:0 "angels"
-DROW_spawn:0 "child"
-DROW_spawn_plural:0 "children"
-DROW_sound_01:0 "growling"
-DROW_sound_02:0 "grunting"
-DROW_sound_03:0 "yapping"
-DROW_sound_04:0 "yowling"
-DROW_sound_05:0 "mewling"
-DROW_organ:0 "stomach"
-DROW_organ_plural:0 "stomachs"
-DROW_mouth:0 "mouth"
-DROW_ear:0 "ear"
-DROW_ear_plural:0 "ears"
-DROW_hand:0 "hand"
-DROW_hand_plural:0 "hands"
-DROW_tooth:0 "tooth"
-DROW_tooth_plural:0 "teeth"
-DROW_fossil:0 "fossil"
-DROW_fossil_plural:0 "fossils"
-DROW_remnant:0 "skeleton"
-DROW_remnant_plural:0 "skeletons"
-
-RT_VALSHARESS:0 "Valsharess"
-
-ILYTHIIRI:0 "Ilythiiri"
-ILYTHIIRI_desc:0 "Species Class has no effect on your Empire, but Drow species may consider other Drow to be less alien than other Species Classes."
-ILYTHIIRI_plural:0 "Ilythiiri"
-ILYTHIIRI_insult_01:0 "demon"
-ILYTHIIRI_insult_plural_01:0 "demons"
-ILYTHIIRI_insult_02:0 "ash skinned freak"
-ILYTHIIRI_insult_plural_02:0 "ash skinned freaks"
-ILYTHIIRI_insult_03:0 "burned gremlin"
-ILYTHIIRI_insult_plural_03:0 "burned gremlins"
-ILYTHIIRI_insult_04:0 "scorched bag of mostly water"
-ILYTHIIRI_insult_plural_04:0 "scorched bags of mostly water"
-ILYTHIIRI_compliment_01:0 "angel"
-ILYTHIIRI_compliment_plural_01:0 "angels"
-ILYTHIIRI_spawn:0 "child"
-ILYTHIIRI_spawn_plural:0 "children"
-ILYTHIIRI_sound_01:0 "growling"
-ILYTHIIRI_sound_02:0 "groping"
-ILYTHIIRI_sound_03:0 "yapping"
-ILYTHIIRI_sound_04:0 "yowling"
-ILYTHIIRI_sound_05:0 "mewling"
-ILYTHIIRI_organ:0 "stomach"
-ILYTHIIRI_organ_plural:0 "stomachs"
-ILYTHIIRI_mouth:0 "mouth"
-ILYTHIIRI_ear:0 "ear"
-ILYTHIIRI_ear_plural:0 "ears"
-ILYTHIIRI_hand:0 "hand"
-ILYTHIIRI_hand_plural:0 "hands"
-ILYTHIIRI_tooth:0 "tooth"
-ILYTHIIRI_tooth_plural:0 "teeth"
 
 ####################################
 # Traits
@@ -225,6 +147,9 @@ ELVEN_tulshar_heir_title_female: "Qu'essan"
 ELVEN_tulshar_ruler_name: "Nathrae d'Elamshinae"
 ELVEN_tulshar_homeworld_name: "Delmask'ri"
 ELVEN_tulshar_home_system_name: "Ilithor"
+
+### TITLES
+RT_VALSHARESS:0 "Valsharess"
 
 ###################
 ### EVENT STUFF ###

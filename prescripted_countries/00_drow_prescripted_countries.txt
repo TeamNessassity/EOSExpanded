@@ -135,7 +135,7 @@ drow_civ1 = {
 	initializer="drow_system_eilistraee_initializer"
 	system_name="ELVEN_drow1_home_system_name"
 	
-	graphical_culture="elven_01"
+	graphical_culture="elven_02"
 	city_graphical_culture="elven_02"
 	advisor_voice_type="l_spiritualist"
 
@@ -225,7 +225,7 @@ drow_civ1_nomads_dlc = {
 	initializer="drow_system_eilistraee_initializer"
 	system_name="ELVEN_drow1_home_system_name"
 	
-	graphical_culture="elven_01"
+	graphical_culture="elven_02"
 	city_graphical_culture="elven_02"
 	advisor_voice_type="l_spiritualist"
 
