@@ -9,6 +9,7 @@ trait_drow = {
 	cost = 1
 	sorting_priority = 20
 	portrait_override = { drow drow_true drow_lhuren dunmer dunmer_true dunmer_lhuren }
+	forbidden_origins = { origin_overtuned }
 
 	sorting_priority = 20
 

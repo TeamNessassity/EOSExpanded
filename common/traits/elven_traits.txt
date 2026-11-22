@@ -15,6 +15,7 @@ trait_elven_true = {
 	cost = 1
 	sorting_priority = 20
 	portrait_override = { elven sidh lunari lhuren }
+	forbidden_origins = { origin_overtuned }
 
 	sorting_priority = 20
 
@@ -476,7 +477,7 @@ trait_elven_lhuren_concessions = {
 	custom_subtitle = trait_elven_lhuren_celestial_grace_subtitle
 	# Cannot create Celestial Offices, but can still support other councilors.
 	triggered_councilor_modifier = {
-		show_if_not_potential = yes
+		show_if_trigger_false = yes
 		potential = {
 			exists = owner
 			owner = {
@@ -491,7 +492,7 @@ trait_elven_lhuren_concessions = {
 		mult = root.trigger:has_total_skill
 	}
 	triggered_councilor_modifier = {
-		show_if_not_potential = yes
+		show_if_trigger_false = yes
 		potential = {
 			exists = owner
 			owner = {

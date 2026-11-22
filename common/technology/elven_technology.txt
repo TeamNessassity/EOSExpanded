@@ -5,7 +5,6 @@ tech_lunari_shield_power_relays = {
 	is_rare = yes
     is_reverse_engineerable = no
 	category = { field_manipulation }
-	ai_update_type = all
 	prerequisites = { "tech_shields_4" }
 	weight = @tier3weight3
 
