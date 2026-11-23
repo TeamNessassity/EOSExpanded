@@ -60,12 +60,16 @@ drow_tulshar_civ = {
 			category="backgrounds"
 			file="v.dds"
 		}
-		colors={
+		colors=
+		{
 			"red"
 			"black"
 			"null"
+			"intense_red"
+			"null"
 			"null"
 		}
+		use_ship_color=yes
 	}
 	
 	ruler={

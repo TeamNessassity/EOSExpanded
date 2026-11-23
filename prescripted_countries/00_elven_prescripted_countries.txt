@@ -233,8 +233,11 @@ elven_civ2_both_dlc = {
 			"dark_green"
 			"yellow"
 			"null"
+			"light_green"
+			"null"
 			"null"
 		}
+		use_ship_color=yes
 	}
 	ruler={
 		gender=female
@@ -311,12 +314,11 @@ elven_civ2_no_astral_planes = {
 			category="backgrounds"
 			file="gaul_pattern1.dds"
 		}
-		colors=
-		{
-			"black"
+		colors={
+			"dark_green"
 			"yellow"
 			"null"
-			"dark_brown"
+			"light_green"
 			"null"
 			"null"
 		}
@@ -401,8 +403,11 @@ elven_civ2_no_first_contact = {
 			"dark_green"
 			"yellow"
 			"null"
+			"light_green"
+			"null"
 			"null"
 		}
+		use_ship_color=yes
 	}
 	ruler={
 		gender=female
@@ -483,8 +488,11 @@ elven_civ2 = {
 			"dark_green"
 			"yellow"
 			"null"
+			"light_green"
+			"null"
 			"null"
 		}
+		use_ship_color=yes
 	}
 	ruler={
 		gender=female
@@ -563,7 +571,7 @@ elven_civ3 ={
 			"black"
 			"yellow"
 			"null"
-			"dark_brown"
+			"bright_yellow"
 			"null"
 			"null"
 		}
