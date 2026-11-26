@@ -107,6 +107,7 @@ origin_elven_celestial_throne = {
 			OR = {
 				value = ethic_spiritualist
 				value = ethic_fanatic_spiritualist
+				value = ethic_absolute_spiritualist
 			}
 		}
 		civics = { value = civic_elven_celestial_grace }

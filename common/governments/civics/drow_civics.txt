@@ -69,8 +69,9 @@ civic_drow_eilistraee = {
 		ethics = {
 			NOR = {
 				text = civic_tooltip_not_militarist
-				value = ethic_fanatic_militarist
 				value = ethic_militarist
+				value = ethic_fanatic_militarist
+				value = ethic_absolute_militarist
 			}
 		}
 	}
@@ -118,11 +119,13 @@ civic_drow_warriors = {
 				text = civic_tooltip_authoritarian
 				value = ethic_authoritarian
 				value = ethic_fanatic_authoritarian
+				value = ethic_absolute_authoritarian
 			}
 			OR = {
 				text = civic_tooltip_spiritualist
 				value = ethic_spiritualist
 				value = ethic_fanatic_spiritualist
+				value = ethic_absolute_spiritualist
 			}
 		}
 		
