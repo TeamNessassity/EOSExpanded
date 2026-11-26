@@ -120,12 +120,14 @@ civic_drow_warriors = {
 				value = ethic_authoritarian
 				value = ethic_fanatic_authoritarian
 				value = ethic_absolute_authoritarian
+				value = ethic_absolute_spiritualist
 			}
 			OR = {
 				text = civic_tooltip_spiritualist
 				value = ethic_spiritualist
 				value = ethic_fanatic_spiritualist
 				value = ethic_absolute_spiritualist
+				value = ethic_absolute_authoritarian
 			}
 		}
 		
