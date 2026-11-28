@@ -37,6 +37,7 @@ trait_drow = {
 	tags = { organic positive species leader special }
 	
 	modifier = {
+		leader_species_weight_mult = 0.10
 		leader_lifespan_mult = 9.0				# Assuming that it costs 4 points, like Venerable.
 		habitability_floor_add = 0.3			# +1 points, like Biohabitability
 		planet_jobs_unity_produces_mult = -0.1  # -1 points
@@ -108,6 +109,7 @@ trait_drow_savage = {
 	tags = { organic positive species leader special }
 	
 	modifier = {
+		leader_species_weight_mult = 0.10
 		species_leader_exp_gain = 0.10
 		pop_amenities_usage_mult = -0.05
 		logistic_growth_mult = 0.1
@@ -198,10 +200,11 @@ trait_drow_moravar_immortality = {
 	tags = { organic positive species leader special }
 
 	# Since it's added after game-start, keep base age
-	#modifier = {
+	modifier = {
+		leader_species_weight_mult = 0.10
 	#	leader_starting_age_mult = 10.0
 	#	heir_starting_age_mult = -10.0
-	#}
+	}
 	
 	allowed_archetypes = { BIOLOGICAL }
 
@@ -231,6 +234,7 @@ trait_drow_anorim_immortality = {
 	tags = { organic positive species leader special }
 
 	modifier = {
+		leader_species_weight_mult = 0.10
 		logistic_growth_mult = 0.10
 		empire_size_pops_mult = -0.10
 	}
